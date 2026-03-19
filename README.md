@@ -36,7 +36,8 @@
 ## 🚀 কিভাবে ব্যবহার করবেন?
 
 ১. এই ওয়েবসাইট লিংকে ক্লিক করুন বা লিংক কপি করে যেকোনো ব্রাউজার এ পেস্ট করুন। 
-```https://md-hasib-hossen.github.io/Eid-Fitr/
+```
+https://md-hasib-hossen.github.io/Eid-Fitr/
 ```
 
 ২. ওয়েবসাইট লিংক যেকোনো ব্রাউজারে (Chrome, Firefox) ওপেন করুন।
