@@ -56,7 +56,7 @@ https://md-hasib-hossen.github.io/Eid-Fitr/
 
 ## 👨‍💻 ডেভেলপার
 
-**নাম:** REDEM md হানিফ  
+**নাম:** মোঃ এম আল হাসিব হোসেন 
 **ভূমিকা:** ওয়েব ডেভেলপার & সাইবার এক্সপার্ট 
 **যোগাযোগ:** [https://www.facebook.com/programmer.saiko]
 
